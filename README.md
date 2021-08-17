@@ -10,6 +10,6 @@ Give permission:
 Add to your path:
 - e.g. macos `/usr/local/bin`
 
-Launch program:
+Launch script:
 - `gp.sh`
 
