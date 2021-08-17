@@ -13,6 +13,3 @@ Add to your path:
 Launch program:
 - `gp.sh`
 
-
-
-
