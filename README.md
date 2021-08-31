@@ -5,7 +5,7 @@ Add an alias if you want change the name 🧠
 
 ### Usage
 Give <b>permission</b>:
-- `chmod 777 gp.sh`
+- `chmod +x gp.sh`
 
 Add to your <b>path</b>:
 - e.g. macos `/usr/local/bin`
