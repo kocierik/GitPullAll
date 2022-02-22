@@ -1,15 +1,14 @@
 ## gitPullAll
-Update all git repo with a single word 🐚
 
-Add an alias if you want change the name 🧠
+Update all git repo with a single command
 
 ### Usage
 Give <b>permission</b>:
-- `chmod +x gp.sh`
+```
+chmod +x gp.sh
+```
 
-Add to your <b>path</b>:
-- e.g. macos `/usr/local/bin`
-
-<b>Launch</b> script:
-- `gp.sh`
-
+add to somewhere in your <b>path</b>
+```
+/usr/local/bin/
+```
